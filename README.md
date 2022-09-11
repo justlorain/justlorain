@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Lorain!
 
 <!--
 **justlorain/justlorain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I am currently studying for a BSc at Xi’an Jiaotong-liverpool University.
+- 📫 How to reach me: 743804605@qq.com
+
+![](images/BINARY.jpg)
