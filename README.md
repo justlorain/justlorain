@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I am currently studying for a BSc at Xi’an Jiaotong-liverpool University.
+- 🔭 I’m currently studying for a BSc at Xi’an Jiaotong-liverpool University.
+- 🌱 I’m currently learning Information and Computing Science.
 - 📫 How to reach me: 743804605@qq.com
 
 ![](images/BINARY.jpg)
