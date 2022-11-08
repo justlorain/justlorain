@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Information and Computing Science.
 - 📫 How to reach me: 743804605@qq.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justlorain)](https://github.com/anuraghazra/github-readme-stats)
+[![Lorain's GitHub stats](https://github-readme-stats.vercel.app/api?username=justlorain&count_private=true&show_icons=true&title_color=FF001E&icon_color=D8001E&bg_color=000000&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](images/BINARY.jpg)
 ![](images/Lorain.png)
