@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 743804605@qq.com
 
 [![Lorain's GitHub stats](https://github-readme-stats.vercel.app/api?username=justlorain&count_private=true&show_icons=true&title_color=FF001E&icon_color=D8001E&bg_color=000000&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justlorain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](images/BINARY.jpg)
-![](images/Lorain.png)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github.com/justlorain/justlorain/blob/main/images/BINARY.jpg" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github.com/justlorain/justlorain/blob/main/images/Lorain.png" />
+</a>
