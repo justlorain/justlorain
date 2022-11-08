@@ -20,9 +20,5 @@ Here are some ideas to get you started:
 
 [![Lorain's GitHub stats](https://github-readme-stats.vercel.app/api?username=justlorain&count_private=true&show_icons=true&title_color=FF001E&icon_color=D8001E&bg_color=000000&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justlorain&count_private=true&show_icons=true&title_color=FF001E&icon_color=D8001E&bg_color=000000&text_color=FFFFFF" />
-</a>
-
 ![](images/BINARY.jpg)
 ![](images/Lorain.png)
