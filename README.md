@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Lorain's GitHub stats](https://github-readme-stats.vercel.app/api?username=justlorain&count_private=true&show_icons=true&title_color=FF001E&icon_color=D8001E&bg_color=000000&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">
+<p align="center">
 <img src="https://github.com/justlorain/justlorain/blob/main/images/BINARY.jpg" width="500"/>&nbsp;&nbsp;<img src="https://github.com/justlorain/justlorain/blob/main/images/Lorain.png" width="500"/>
 <br/>
 </p>
