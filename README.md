@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying for a BSc at Xi’an Jiaotong-liverpool University.
 - 🌱 I’m currently learning Information and Computing Science.
+- 😄 Hobbies: ACG, Music and Code
 - 📫 How to reach me: 743804605@qq.com
 
 [![Lorain's GitHub stats](https://github-readme-stats.vercel.app/api?username=justlorain&count_private=true&show_icons=true&title_color=FF001E&icon_color=D8001E&bg_color=000000&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,3 +25,5 @@ Here are some ideas to get you started:
 <img src="https://github.com/justlorain/justlorain/blob/main/images/BINARY.jpg" width="250"/>&nbsp;&nbsp;<img src="https://github.com/justlorain/justlorain/blob/main/images/Lorain.png" width="250"/>
 <br/>
 </p>
+
+> You Are (Not) Alone
