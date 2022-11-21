@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <br/>
 </p>
 
-> You Are (Not) Alone
+> ------------------------------ You Are (Not) Alone ------------------------------
