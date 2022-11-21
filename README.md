@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 <br/>
 </p>
 
-> ------------------------------ You Are (Not) Alone ------------------------------
+```shell
+You Are (Not) Alone
+```
