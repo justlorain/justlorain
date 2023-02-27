@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋 This is Lorain!</h1>
 <h3 align="center">Great ideals but through selfless struggle and sacrifice to achieve.</h3>
-
+<!-- fancy version -->
 - 🔭 I’m currently studying for a BSc at **Xi’an Jiaotong-liverpool University**.
 
 - 🌱 I’m currently learning **Information and Computing Science**.
@@ -19,7 +19,7 @@
 
 - [Hertz-Redis-Registry](https://github.com/hertz-contrib/registry/tree/main/redis) | Redis as service registry for Hertz. | `redis` `service registry`
 - [Hertz-ETag-Middleware](https://github.com/hertz-contrib/etag) | ETag middleware for Hertz. | `etag` `middleware`
-- [Hertz-Session](https://github.com/cloudwego/hertz-examples/tree/main/bizdemo/hertz_session) | A demo with Hertz and Session, this demo aims to demonstrate a distributed session solution based on the hertz-contrib/sessions. | `session` `csrf` `biz-demo`
+- [Hertz-Session](https://github.com/cloudwego/hertz-examples/tree/main/bizdemo/hertz_session) | A demo demonstrates a distributed session solution based on the hertz-contrib/sessions. | `session` `csrf` `biz-demo`
 - [CloudWeGo-EasyNote](https://github.com/cloudwego/biz-demo/blob/main/easy_note/README.md) | Hertz, Kitex and GORM based microservices project. | `microservice` `biz-demo`
 
 ### Personal Projects
