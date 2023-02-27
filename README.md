@@ -16,18 +16,18 @@
 
 - ⚡ Hobbies: **ACG, Music and Code**
 
+### Personal Projects
+
+- [DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo) | A distributed cache with out-of-the-box, high-scalability, modular-design features. | `golang` `cache` `distributed`
+- [PIANO](https://github.com/B1NARY-GR0UP/piano) | A simple and lightweight HTTP framework. More features will be supported gradually. | `golang` `http`
+- [INQUISITOR](https://github.com/B1NARY-GR0UP/inquisitor) | A simple and lightweight log. | `golang` `log`
+
 ### Contributed Open Source Projects
 
 - [Hertz-Redis-Registry](https://github.com/hertz-contrib/registry/tree/main/redis) | Redis as service registry for Hertz. | `redis` `service-registry`
 - [Hertz-ETag-Middleware](https://github.com/hertz-contrib/etag) | ETag middleware for Hertz. | `etag` `middleware`
 - [Hertz-Session](https://github.com/cloudwego/hertz-examples/tree/main/bizdemo/hertz_session) | A demo demonstrates a distributed session solution based on the hertz-contrib/sessions. | `session` `csrf` `biz-demo`
 - [CloudWeGo-EasyNote](https://github.com/cloudwego/biz-demo/blob/main/easy_note/README.md) | Hertz, Kitex and GORM based microservices project. | `microservice` `biz-demo`
-
-### Personal Projects
-
-- [DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo) | A distributed cache with out-of-the-box, high-scalability, modular-design features. | `golang` `cache` `distributed`
-- [PIANO](https://github.com/B1NARY-GR0UP/piano) | A simple and lightweight HTTP framework. More features will be supported gradually. | `golang` `http`
-- [INQUISITOR](https://github.com/B1NARY-GR0UP/inquisitor) | A simple and lightweight log. | `golang` `log`
 
 ### Contributed Open Source Documents
 
