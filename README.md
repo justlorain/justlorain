@@ -18,7 +18,7 @@
 
 ### Contributed Open Source Projects
 
-- [Hertz-Redis-Registry](https://github.com/hertz-contrib/registry/tree/main/redis) | Redis as service registry for Hertz. | `redis` `service registry`
+- [Hertz-Redis-Registry](https://github.com/hertz-contrib/registry/tree/main/redis) | Redis as service registry for Hertz. | `redis` `service-registry`
 - [Hertz-ETag-Middleware](https://github.com/hertz-contrib/etag) | ETag middleware for Hertz. | `etag` `middleware`
 - [Hertz-Session](https://github.com/cloudwego/hertz-examples/tree/main/bizdemo/hertz_session) | A demo demonstrates a distributed session solution based on the hertz-contrib/sessions. | `session` `csrf` `biz-demo`
 - [CloudWeGo-EasyNote](https://github.com/cloudwego/biz-demo/blob/main/easy_note/README.md) | Hertz, Kitex and GORM based microservices project. | `microservice` `biz-demo`
