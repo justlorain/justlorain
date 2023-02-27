@@ -1,6 +1,7 @@
 <h1 align="center">Hello there 👋 This is Lorain!</h1>
 <h3 align="center">Great ideals but through selfless struggle and sacrifice to achieve.</h3>
 <!-- fancy version -->
+
 - 🔭 I’m currently studying for a BSc at **Xi’an Jiaotong-liverpool University**.
 
 - 🌱 I’m currently learning **Information and Computing Science**.
