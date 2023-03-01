@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [B1NARY-GR0UP](https://github.com/B1NARY-GR0UP).
 
-- 📝 I regularly write articles on [dev.to](https://dev.to/justlorain).
+- 📝 I regularly write articles on [dev.to](https://dev.to/justlorain) and [juejin.cn](https://juejin.cn/user/1693688466792062).
 
 - 📫 How to reach me: **743804605@qq.com**
 
