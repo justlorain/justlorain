@@ -18,8 +18,9 @@
 
 ### Personal Projects
 
-- [DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo) | A distributed cache with out-of-the-box, high-scalability, modular-design features. | `golang` `cache` `distributed`
+- [PHOS](https://github.com/B1NARY-GR0UP/phos) | A channel with internal handlers and diversified options. | `golang` `channel`
 - [PIANO](https://github.com/B1NARY-GR0UP/piano) | A simple and lightweight HTTP framework. More features will be supported gradually. | `golang` `http`
+- [DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo) | A distributed cache with out-of-the-box, high-scalability, modular-design features. | `golang` `cache` `distributed`
 - [INQUISITOR](https://github.com/B1NARY-GR0UP/inquisitor) | A simple and lightweight log. | `golang` `log`
 
 ### Contributed Open Source Projects
