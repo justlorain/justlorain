@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/justlorain) and [juejin.cn](https://juejin.cn/user/1693688466792062).
 
-- 📫 How to reach me: **743804605@qq.com**
+- 📫 How to reach me: **justlorain@qq.com**
 
 - ⚡ Hobbies: **ACG, Music and Code**
 
