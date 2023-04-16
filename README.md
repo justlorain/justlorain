@@ -41,10 +41,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PHOS: A Go channel extension with internal handlers](https://dev.to/justlorain/phos-a-go-channel-extension-with-internal-handlers-4lad)
-- [PIANO: A Simple and Lightweight HTTP Framework Implemented in Go](https://dev.to/justlorain/piano-a-simple-and-lightweight-http-framework-implemented-in-go-224p)
 - [DREAMEMO: An out-of-the-box, high-scalability, modular-design distributed cache](https://dev.to/justlorain/dreamemo-an-out-of-the-box-high-scalability-modular-design-distributed-cache-4d6e)
+- [PIANO: A Simple and Lightweight HTTP Framework Implemented in Go](https://dev.to/justlorain/piano-a-simple-and-lightweight-http-framework-implemented-in-go-224p)
 - [Use session middleware to implement distributed session solution based on Redis](https://dev.to/justlorain/use-session-middleware-to-implement-distributed-session-solution-based-on-redis-5b65)
-- [High Performance Web Framework Tasting-Database Operations](https://dev.to/justlorain/high-performance-web-framework-tasting-database-operations-3m7)
+- [An interesting process of solving an issue](https://dev.to/justlorain/an-interesting-process-of-solving-an-issue-5024)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
