@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Information and Computing Science**.
 
-- 👯 I'm currently contributing to [CloudWeGo](https://github.com/cloudwego).
+- 👯 I'm currently contributing to **[CloudWeGo](https://github.com/cloudwego)**.
 
-- 👨‍💻 All of my projects are available at [B1NARY-GR0UP](https://github.com/B1NARY-GR0UP).
+- 👨‍💻 All of my projects are available at **[B1NARY-GR0UP](https://github.com/B1NARY-GR0UP)**.
 
-- 📝 I regularly write articles on [dev.to](https://dev.to/justlorain) and [juejin.cn](https://juejin.cn/user/1693688466792062).
+- 📝 I regularly write articles on **[dev.to](https://dev.to/justlorain)** and **[juejin.cn](https://juejin.cn/user/1693688466792062)**.
 
 - 📫 How to reach me: **justlorain@qq.com**
 
