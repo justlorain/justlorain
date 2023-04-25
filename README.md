@@ -18,10 +18,10 @@
 
 ### Personal Projects
 
-- [PHOS](https://github.com/B1NARY-GR0UP/phos) | A channel with internal handlers and diversified options. | `golang` `channel`
-- [PIANO](https://github.com/B1NARY-GR0UP/piano) | A simple and lightweight HTTP framework. More features will be supported gradually. | `golang` `http`
-- [DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo) | A distributed cache with out-of-the-box, high-scalability, modular-design features. | `golang` `cache` `distributed`
-- [INQUISITOR](https://github.com/B1NARY-GR0UP/inquisitor) | A simple and lightweight log. | `golang` `log`
+- [PHOS](https://github.com/B1NARY-GR0UP/phos) | A channel with internal handlers and diversified options. | `go` `channel`
+- [PIANO](https://github.com/B1NARY-GR0UP/piano) | A simple and lightweight HTTP framework. More features will be supported gradually. | `go` `http`
+- [DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo) | A distributed cache with out-of-the-box, high-scalability, modular-design features. | `go` `distributed-cache`
+- [INQUISITOR](https://github.com/B1NARY-GR0UP/inquisitor) | A simple and lightweight log. | `go` `log`
 
 ### Contributed Open Source Projects
 
@@ -60,7 +60,8 @@
 ---
 
 <p align="left">
-<img src="https://github.com/justlorain/justlorain/blob/main/images/BINARY.jpg" width="250"/><img src="https://github.com/justlorain/justlorain/blob/main/images/Lorain.png" width="250"/>
+<img src="https://github.com/justlorain/justlorain/blob/main/images/BINARY.jpg" width="250" alt="BINARY"/><img src="https://github.com/justlorain/justlorain/blob/main/images/Lorain.png" width="250" alt="Lorain"/><br/>
+<img src="https://github.com/justlorain/justlorain/blob/main/images/BINARY-WEB-ECO.png" width="500" alt="BINARY-WEB-ECO"/>
 </p>
 
 ```shell
