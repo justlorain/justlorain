@@ -19,8 +19,8 @@
 ### Personal Projects
 
 - [PHOS](https://github.com/B1NARY-GR0UP/phos) | A channel with internal handlers and diversified options. | `go` `channel`
-- [VIOLIN](https://github.com/B1NARY-GR0UP/violin) | A worker pool with rich APIs and configuration options. | `go` `worker-pool`
-- [PIANO](https://github.com/B1NARY-GR0UP/piano) | A simple and lightweight HTTP framework. More features will be supported gradually. | `go` `http`
+- [VIOLIN](https://github.com/B1NARY-GR0UP/violin) | A worker/connection pool with rich APIs and configuration options. | `go` `worker-pool` `connection-pool`
+- [PIANO](https://github.com/B1NARY-GR0UP/piano) | A simple and lightweight HTTP framework. | `go` `http`
 - [DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo) | A distributed cache with out-of-the-box, high-scalability, modular-design features. | `go` `distributed-cache`
 - [INQUISITOR](https://github.com/B1NARY-GR0UP/inquisitor) | A simple and lightweight log. | `go` `log`
 
