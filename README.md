@@ -48,13 +48,8 @@
 - [Use session middleware to implement distributed session solution based on Redis](https://dev.to/justlorain/use-session-middleware-to-implement-distributed-session-solution-based-on-redis-5b65)
 <!-- BLOG-POST-LIST:END -->
 
-### Languages
-
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
-
 ### Personal Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=justlorain&title_color=FF001E&icon_color=D8001E&bg_color=000000&text_color=FFFFFF&locale=en" alt="justlorain" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=justlorain&title_color=FF001E&icon_color=D8001E&bg_color=000000&text_color=FFFFFF&locale=en" alt="justlorain" /></p> -->
 <p><img align="center" src="https://streak-stats.demolab.com?user=justlorain&theme=dark&hide_border=true&background=000000&fire=D70000&ring=D90000&currStreakLabel=FF0000&sideLabels=FF0000" alt="justlorain" /></p>
 
 ---
