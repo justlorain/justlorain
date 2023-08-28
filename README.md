@@ -41,11 +41,11 @@
 ### Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Add License Headers to Your Code Files: NWA - A More Powerful License Statement Management Tool](https://dev.to/justlorain/add-license-headers-to-your-code-files-nwa-a-more-powerful-license-statement-management-tool-86o)
 - [GO: How to Write a Worker Pool](https://dev.to/justlorain/go-how-to-write-a-worker-pool-1h3b)
 - [PHOS: A Go channel extension with internal handlers](https://dev.to/justlorain/phos-a-go-channel-extension-with-internal-handlers-4lad)
 - [DREAMEMO: An out-of-the-box, high-scalability, modular-design distributed cache](https://dev.to/justlorain/dreamemo-an-out-of-the-box-high-scalability-modular-design-distributed-cache-4d6e)
 - [PIANO: A Simple and Lightweight HTTP Framework Implemented in Go](https://dev.to/justlorain/piano-a-simple-and-lightweight-http-framework-implemented-in-go-224p)
-- [Use session middleware to implement distributed session solution based on Redis](https://dev.to/justlorain/use-session-middleware-to-implement-distributed-session-solution-based-on-redis-5b65)
 <!-- BLOG-POST-LIST:END -->
 
 ### Personal Stats
