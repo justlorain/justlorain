@@ -60,6 +60,6 @@
 <img src="https://github.com/justlorain/justlorain/blob/main/images/Lorain.png" width="500" alt="Lorain"/>
 </p>
 
----
+```binary
 You Are (Not) Alone
----
+```
