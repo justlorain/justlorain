@@ -61,9 +61,5 @@
 </p>
 
 ---
-
-```shell
 You Are (Not) Alone
-```
-
 ---
