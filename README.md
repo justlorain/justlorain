@@ -58,7 +58,7 @@
 <p align="left">
 <img src="https://github.com/justlorain/justlorain/blob/main/images/BINARY-WEB-ECO.png" width="500" alt="BINARY-WEB-ECO"/><br/>
 <img src="https://github.com/justlorain/justlorain/blob/main/images/BMS.png" width="500" alt="BMS"/><br/>
-<img src="https://github.com/justlorain/justlorain/blob/main/images/Lorain(black).png" width="500" alt="Lorain"/>
+<img src="https://github.com/justlorain/justlorain/blob/main/images/Lorain.png" width="500" alt="Lorain"/>
 </p>
 
 ```binary
