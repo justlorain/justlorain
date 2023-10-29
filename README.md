@@ -21,7 +21,7 @@
 - [NWA](https://github.com/B1NARY-GR0UP/nwa) | A more powerful license header management tool. | `go` `command-line-tool`
 - [PHOS](https://github.com/B1NARY-GR0UP/phos) | A channel with internal handlers and diversified options. | `go` `channel`
 - [VIOLIN](https://github.com/B1NARY-GR0UP/violin) | A worker/connection pool with rich APIs and configuration options. | `go` `worker-pool` `connection-pool`
-- [GHS](https://github.com/justlorain/ghs) | A chrome extension that allows you to search GitHub repositories from selected text. | `chrome-extension`
+- [GHS](https://github.com/B1NARY-GR0UP/ghs) | A chrome extension that allows you to search GitHub repositories from selected text. | `chrome-extension`
 - [PIANO](https://github.com/B1NARY-GR0UP/piano) | A simple and lightweight HTTP framework. | `go` `http`
 - [DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo) | A distributed cache with out-of-the-box, high-scalability, modular-design features. | `go` `distributed-cache`
 
