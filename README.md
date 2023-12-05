@@ -43,7 +43,7 @@
 ### Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to apply reverse proxy over websocket](https://dev.to/justlorain/how-to-apply-reverse-proxy-over-websocket-27ml)
+- [How to reverse proxy the WebSocket protocol](https://dev.to/justlorain/how-to-apply-reverse-proxy-over-websocket-27ml)
 - [How to Build Your Own Chrome Extension Using ChatGPT](https://dev.to/justlorain/how-to-build-your-own-chrome-extension-using-chatgpt-1pfa)
 - [I Created a Chrome Extension in 15 Minutes with Zero Front-End Knowledge Using GPT](https://dev.to/justlorain/i-created-a-chrome-extension-in-15-minutes-with-zero-front-end-knowledge-using-gpt-33df)
 - [Add License Headers to Your Code Files](https://dev.to/justlorain/add-license-headers-to-your-code-files-nwa-a-more-powerful-license-statement-management-tool-86o)
