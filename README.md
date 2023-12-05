@@ -28,6 +28,7 @@
 
 ### Contributed Open Source Projects
 
+- [Hertz-WebSocket-ReverseProxy](https://github.com/hertz-contrib/reverseproxy/blob/master/ws_reverse_proxy.go) | WebSocket reverse proxy for Hertz. | `websocket` `reverse-proxy`
 - [Hertz-Redis-Registry](https://github.com/hertz-contrib/registry/tree/main/redis) | Redis as service registry for Hertz. | `redis` `service-registry`
 - [Hertz-ETag-Middleware](https://github.com/hertz-contrib/etag) | ETag middleware for Hertz. | `etag` `middleware`
 - [Hertz-Session](https://github.com/cloudwego/hertz-examples/tree/main/bizdemo/hertz_session) | A demo demonstrates a distributed session solution based on the hertz-contrib/sessions. | `session` `csrf` `biz-demo`
