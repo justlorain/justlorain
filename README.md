@@ -34,13 +34,6 @@
 - [Hertz-Session](https://github.com/cloudwego/hertz-examples/tree/main/bizdemo/hertz_session) | A demo demonstrates a distributed session solution based on the hertz-contrib/sessions. | `session` `csrf` `biz-demo`
 - [CloudWeGo-EasyNote](https://github.com/cloudwego/biz-demo/blob/main/easy_note/README.md) | Hertz, Kitex and GORM based microservices project. | `microservice` `biz-demo`
 
-### Contributed Open Source Documents
-
-- [Hertz-Adaptor](https://www.cloudwego.io/docs/hertz/tutorials/basic-feature/adaptor/) | `ZH` `EN`
-- [Hertz-BasicAuth-Middleware](https://www.cloudwego.io/docs/hertz/tutorials/basic-feature/middleware/basic-auth/) | `ZH` `EN`
-- [Hertz-RequestID-Middleware](https://www.cloudwego.io/docs/hertz/tutorials/basic-feature/middleware/requestid/) | `ZH` `EN`
-- [Hertz-Session-Middleware](https://www.cloudwego.io/docs/hertz/tutorials/basic-feature/middleware/session/) | `ZH` `EN`
-
 ### Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
