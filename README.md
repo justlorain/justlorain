@@ -20,6 +20,7 @@
 
 - [NWA](https://github.com/B1NARY-GR0UP/nwa) | A more powerful license header management tool. | `go` `command-line-tool`
 - [PHOS](https://github.com/B1NARY-GR0UP/phos) | A channel with internal handlers and diversified options. | `go` `channel`
+- [OPENALYSIS](https://github.com/B1NARY-GR0UP/openalysis) | A service for analyzing open-source community GitHub data. | `go` `grafana` `command-line-tool`
 - [VIOLIN](https://github.com/B1NARY-GR0UP/violin) | A worker/connection pool with rich APIs and configuration options. | `go` `worker-pool` `connection-pool`
 - [TABSNAPSHOT](https://github.com/B1NARY-GR0UP/tabsnapshot) | A Chrome extension that allows you to create a snapshot for the current open tabs. | `chrome-extension`
 - [GHS](https://github.com/B1NARY-GR0UP/ghs) | A chrome extension that allows you to search GitHub repositories from selected text. | `chrome-extension`
