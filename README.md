@@ -38,11 +38,11 @@
 ### Blogs Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Visualize and Analyze Data in Open Source Communities](https://dev.to/justlorain/how-to-visualize-and-analyze-data-in-open-source-communities-1l35)
 - [How to reverse proxy the WebSocket protocol](https://dev.to/justlorain/how-to-apply-reverse-proxy-over-websocket-27ml)
 - [How to Build Your Own Chrome Extension Using ChatGPT](https://dev.to/justlorain/how-to-build-your-own-chrome-extension-using-chatgpt-1pfa)
 - [I Created a Chrome Extension in 15 Minutes with Zero Front-End Knowledge Using GPT](https://dev.to/justlorain/i-created-a-chrome-extension-in-15-minutes-with-zero-front-end-knowledge-using-gpt-33df)
 - [Add License Headers to Your Code Files](https://dev.to/justlorain/add-license-headers-to-your-code-files-nwa-a-more-powerful-license-statement-management-tool-86o)
-- [GO: How to Write a Worker Pool](https://dev.to/justlorain/go-how-to-write-a-worker-pool-1h3b)
 <!-- BLOG-POST-LIST:END -->
 
 ### Personal Stats
