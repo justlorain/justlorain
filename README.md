@@ -35,7 +35,7 @@
 - [Hertz-Session](https://github.com/cloudwego/hertz-examples/tree/main/bizdemo/hertz_session) | A demo demonstrates a distributed session solution based on the hertz-contrib/sessions. | `session` `csrf` `biz-demo`
 - [CloudWeGo-EasyNote](https://github.com/cloudwego/biz-demo/blob/main/easy_note/README.md) | Hertz, Kitex and GORM based microservices project. | `microservice` `biz-demo`
 
-### Blogs Posts
+### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Visualize and Analyze Data in Open Source Communities](https://dev.to/justlorain/how-to-visualize-and-analyze-data-in-open-source-communities-1l35)
