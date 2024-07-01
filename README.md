@@ -18,7 +18,7 @@
 
 ### Personal Projects
 
-- [OPENALYSIS](https://github.com/B1NARY-GR0UP/openalysis) | A service for analyzing open-source community GitHub data. | `go` `grafana` `command-line-tool`
+- [OPENALYSIS](https://github.com/B1NARY-GR0UP/openalysis) | A tool for visualizing and analyzing data from the GitHub open-source community. | `go` `grafana` `command-line-tool`
 - [NWA](https://github.com/B1NARY-GR0UP/nwa) | A more powerful license header management tool. | `go` `command-line-tool`
 - [VIOLIN](https://github.com/B1NARY-GR0UP/violin) | A worker/connection pool with rich APIs and configuration options. | `go` `worker-pool` `connection-pool`
 - [PIANO](https://github.com/B1NARY-GR0UP/piano) | A simple and lightweight HTTP framework. | `go` `http`
