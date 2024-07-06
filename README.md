@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **justlorain@qq.com**
 
-- ⚡ Hobbies: **ACG, Music and Code**
+- ⚡ Hobbies: **ACG, Music and Open-Source**
 
 ### Personal Projects
 
