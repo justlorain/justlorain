@@ -40,11 +40,11 @@
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Dynamic Grafana Dashboards and Visualize Open-Source Community Data](https://dev.to/justlorain/how-to-build-dynamic-grafana-dashboards-and-visualize-open-source-community-data-4caa)
 - [How to Build Your Own Distributed KV Storage System Using the etcd Raft Library](https://dev.to/justlorain/how-to-build-your-own-distributed-kv-storage-system-using-the-etcd-raft-library-2j69)
 - [How to Visualize and Analyze Data in Open Source Communities](https://dev.to/justlorain/how-to-visualize-and-analyze-data-in-open-source-communities-1l35)
 - [How to reverse proxy the WebSocket protocol](https://dev.to/justlorain/how-to-apply-reverse-proxy-over-websocket-27ml)
 - [How to Build Your Own Chrome Extension Using ChatGPT](https://dev.to/justlorain/how-to-build-your-own-chrome-extension-using-chatgpt-1pfa)
-- [I Created a Chrome Extension in 15 Minutes with Zero Front-End Knowledge Using GPT](https://dev.to/justlorain/i-created-a-chrome-extension-in-15-minutes-with-zero-front-end-knowledge-using-gpt-33df)
 <!-- BLOG-POST-LIST:END -->
 
 ### Personal Stats
