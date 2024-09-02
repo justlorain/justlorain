@@ -2,9 +2,9 @@
 <h3 align="center">Great ideals but through selfless struggle and sacrifice to achieve.</h3>
 <!-- fancy version -->
 
-- 🔭 I’m currently studying for a BSc at **Xi’an Jiaotong-liverpool University**.
+- 🔭 I'm currently studying for an MSc at **University College London**.
 
-- 🌱 I’m currently learning **Information and Computing Science**.
+- 🌱 I'm currently learning **Scientific and Data Intensive Computing**.
 
 - 👯 I'm currently contributing to **[CloudWeGo](https://github.com/cloudwego)**.
 
@@ -37,7 +37,7 @@
 - [Hertz-Session](https://github.com/cloudwego/hertz-examples/tree/main/bizdemo/hertz_session) | A demo demonstrates a distributed session solution based on the hertz-contrib/sessions. | `session` `csrf` `biz-demo`
 - [CloudWeGo-EasyNote](https://github.com/cloudwego/biz-demo/blob/main/easy_note/README.md) | Hertz, Kitex and GORM based microservices project. | `microservice` `biz-demo`
 
-### Blog Posts
+### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [One-Year Summary of Using VIM](https://dev.to/justlorain/one-year-summary-of-using-vim-1gkp)
