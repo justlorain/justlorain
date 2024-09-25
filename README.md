@@ -29,7 +29,7 @@
 - [DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo) | A distributed cache with out-of-the-box, high-scalability, modular-design features. | `go` `distributed-cache`
 - [GHS](https://github.com/B1NARY-GR0UP/ghs) | A chrome extension that allows you to search GitHub repositories from selected text. | `chrome-extension`
 
-### Contributed Open Source Projects
+### Open-Source Works
 
 - [Hertz-WebSocket-ReverseProxy](https://github.com/hertz-contrib/reverseproxy/blob/master/ws_reverse_proxy.go) | WebSocket reverse proxy for Hertz. | `websocket` `reverse-proxy`
 - [Hertz-Redis-Registry](https://github.com/hertz-contrib/registry/tree/main/redis) | Redis as service registry for Hertz. | `redis` `service-registry`
