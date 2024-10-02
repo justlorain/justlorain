@@ -25,9 +25,9 @@
 - [VIOLIN](https://github.com/B1NARY-GR0UP/violin) | A worker/connection pool with rich APIs and configuration options. | `go` `worker-pool` `connection-pool`
 - [PIANO](https://github.com/B1NARY-GR0UP/piano) | A simple and lightweight HTTP framework. | `go` `http`
 - [TABSNAPSHOT](https://github.com/B1NARY-GR0UP/tabsnapshot) | A Chrome extension that allows you to create a snapshot for the current open tabs. | `chrome-extension`
-- [PHOS](https://github.com/B1NARY-GR0UP/phos) | A channel with internal handlers and diversified options. | `go` `channel`
-- [DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo) | A distributed cache with out-of-the-box, high-scalability, modular-design features. | `go` `distributed-cache`
-- [GHS](https://github.com/B1NARY-GR0UP/ghs) | A chrome extension that allows you to search GitHub repositories from selected text. | `chrome-extension`
+- [PHOS](https://github.com/B1NARY-GR0UP/phos) | A channel with internal handlers. | `go` `channel`
+- [DREAMEMO](https://github.com/B1NARY-GR0UP/dreamemo) | A simple and lightweight distributed cache. | `go` `distributed-cache`
+- [GHS](https://github.com/B1NARY-GR0UP/ghs) | A Chrome extension that allows you to search GitHub repositories from selected text. | `chrome-extension`
 
 ### Open-Source Works
 
