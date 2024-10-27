@@ -20,6 +20,7 @@
 
 ### Personal Projects
 
+- [RAFT-FOIVER](https://github.com/B1NARY-GR0UP/raft) | Raft Consensus Algorithm implementation used by FOIVER system. | `go` `raft` `distributed-system`
 - [OPENALYSIS](https://github.com/B1NARY-GR0UP/openalysis) | A tool for visualizing and analyzing data from the GitHub open-source community. | `go` `grafana` `command-line-tool`
 - [NWA](https://github.com/B1NARY-GR0UP/nwa) | A more powerful license header management tool. | `go` `command-line-tool`
 - [VIOLIN](https://github.com/B1NARY-GR0UP/violin) | A worker/connection pool with rich APIs and configuration options. | `go` `worker-pool` `connection-pool`
