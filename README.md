@@ -21,11 +21,11 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Implement Serializable Snapshot Isolation for Transactions](https://dev.to/justlorain/how-to-implement-serializable-snapshot-isolation-for-transactions-4j38)
 - [Building an LSM-Tree Storage Engine from Scratch](https://dev.to/justlorain/building-an-lsm-tree-storage-engine-from-scratch-3eom)
 - [Understanding etcd&#39;s Raft Implementation: A Deep Dive into Raft Log](https://dev.to/justlorain/understanding-etcds-raft-implementation-a-deep-dive-into-raft-log-bdn)
 - [One-Year Summary of Using VIM](https://dev.to/justlorain/one-year-summary-of-using-vim-1gkp)
 - [How to Build Your Own Distributed KV Storage System Using the etcd Raft Library &lpar;2&rpar;](https://dev.to/justlorain/how-to-build-your-own-distributed-kv-storage-system-using-the-etcd-raft-library-2-398c)
-- [How to Build Dynamic Grafana Dashboards and Visualize Open-Source Community Data](https://dev.to/justlorain/how-to-build-dynamic-grafana-dashboards-and-visualize-open-source-community-data-4caa)
 <!-- BLOG-POST-LIST:END -->
 
 ### Personal Stats
