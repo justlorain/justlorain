@@ -2,13 +2,7 @@
 <h3 align="center">Great ideals but through selfless struggle and sacrifice to achieve.</h3>
 <!-- fancy version -->
 
-- 🔭 I'm currently studying for an MSc at **University College London**.
-
-- 🌱 I'm currently learning **Scientific and Data Intensive Computing**.
-
-- 👯 I'm currently contributing to **[CloudWeGo](https://github.com/cloudwego)**.
-
-- 👨‍💻 All of my projects are available at **[B1NARY-GR0UP](https://github.com/B1NARY-GR0UP)**.
+- 🛠️ Working as Distributed Computing Engineer.
 
 - 📝 I regularly write articles on **[dev.to](https://dev.to/justlorain)** and **[juejin.cn](https://juejin.cn/user/1693688466792062)**.
 
