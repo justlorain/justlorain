@@ -2,11 +2,9 @@
 <h3 align="center">Great ideals but through selfless struggle and sacrifice to achieve.</h3>
 <!-- fancy version -->
 
-- 🛠️ Working as Distributed Computing Engineer.
+- 🛠️ Working as a Distributed Computing Engineer.
 
 - 📝 I regularly write articles on **[dev.to](https://dev.to/justlorain)** and **[juejin.cn](https://juejin.cn/user/1693688466792062)**.
-
-- 🌌 Check out my personal website: **[Space of Lorain](https://justlorain.space)**
 
 - 📫 How to reach me: **justlorain@qq.com**
 
